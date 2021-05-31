@@ -1,2 +1,5 @@
-# quiz_app
-A simple, flexible quiz application
+# Quiz-App
+
+This application was written in order to practice in Python 3. In the end, a simple and flexible application has been emerged. Comments in the application code are aimed to help you to design the application as you wish. Just set your own questions together with choices and their answers, assign question object to a list: Ready!
+
+Do not hesitate to contact me for questions & pull requests.
